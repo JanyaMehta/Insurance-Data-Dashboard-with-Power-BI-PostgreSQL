@@ -2,7 +2,6 @@
 
 A hands-on **Power BI project** simulating a real-world insurance analytics workflow. This project connects **PostgreSQL database** data directly to Power BI and demonstrates interactive dashboards, data profiling, and visualization techniques for insurance datasets.
 
----
 
 ## 📝 Project Overview
 
@@ -10,7 +9,6 @@ In this project, I explored **insurance-related data** including policy details,
 
 The dashboard showcases key metrics, interactive visualizations, and dynamic insights, helping users explore patterns in policy types, claim statuses, and customer demographics.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -20,7 +18,6 @@ The dashboard showcases key metrics, interactive visualizations, and dynamic ins
 - **Security:** Row-Level Security (RLS) in Power BI  
 - **Automation:** Scheduled Refresh via Power BI Service  
 
----
 
 ## 📊 Dashboard Highlights
 
@@ -35,7 +32,6 @@ The dashboard showcases key metrics, interactive visualizations, and dynamic ins
   - Matrix visuals for policy coverage and claim details  
 - **Drill-through Pages:** Detailed view filtered dynamically by selected metrics.  
 
----
 
 ## 💡 Concepts Applied
 
@@ -46,13 +42,11 @@ The dashboard showcases key metrics, interactive visualizations, and dynamic ins
 - **Security:** Row-Level Security (RLS) to control data access per user role.  
 - **Automation:** Scheduled refresh to keep dashboards updated automatically.  
 
----
 
 ## 🖼️ Dashboard Screenshot
 
 ![Dashboard Preview](./screenshots/dashboard.png)
 
 
----
 
 This project is ideal for anyone looking to learn **real-world Power BI workflows**, including database integration, dashboard design, and automation techniques. 🚀
